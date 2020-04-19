@@ -1,5 +1,6 @@
 # orthopedic_implant_identifier
 ## Developing a neural network to identify the model of orthopedic implant in an x-ray image
+##### AIMINN stands for: Automated Identification of Metallic Implants using Neural Networks
 
 #### Context
 
