@@ -11,7 +11,7 @@ We have therefore developed a neural network classifier for identifying the mode
 
 All code is in ipynb format to enable viewing in Jupyter Notebooks.  Detailed explanations of each ipynb file are included in the markup within each file.  All ipynb code files are numbered according to the order in which they are run.  I have tried to make it clear where it will be necessary to modify the code to work in your own environment.
 
-All code was written using Python 3.7 and library versions used when the code was written included Keras 2.3.1 and Tensorflow 2.1.0 libraries.
+All code was written using Python 3.7 and library versions used when the code was written included Keras 2.3.1 and Tensorflow 2.1.0.
 
 #### For further information about this code and associated data
 
