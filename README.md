@@ -13,6 +13,10 @@ All code is in ipynb format to enable viewing in Jupyter Notebooks.  Detailed ex
 
 All code was written using Python 3.7 and library versions used when the code was written included Keras 2.3.1 and Tensorflow 2.1.0.
 
+#### To interact with our final model
+
+Please visit the associated Kaggle Kernel and Kaggle Dataset, where we have made our final model and test dataset radiographs available for interactive use.
+
 #### For further information about this code and associated data
 
 Please see our associated peer-reviewed publication.
