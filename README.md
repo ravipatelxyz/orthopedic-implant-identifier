@@ -9,9 +9,9 @@ We have therefore developed a neural network classifier for identifying the mode
 
 #### Content
 
-This dataset contains:
-1. FINAL_MODEL - code (ipynb file), h5 files, and examplar radiographs for implementing and playing with our final model. Note that the final model is probably best viewed in Kaggle Kernels where it has also been made available for interactive use.
-2. MODEL_DEVELOPMENT - code used in the process of developing our model. All code is in ipynb format to enable viewing in Jupyter Notebooks.  Detailed explanations of each ipynb file are included in the markup within each file.  All ipynb code files are numbered according to the order in which they are run.  I have tried to make it clear where it will be necessary to modify the code to work in your own environment.
+All code is in ipynb format to enable viewing in Jupyter Notebooks.  Detailed explanations of each ipynb file are included in the markup within each file.  All ipynb code files are numbered according to the order in which they are run.  I have tried to make it clear where it will be necessary to modify the code to work in your own environment.
+
+All code was written using Python 3.7 and library versions used when the code was written included Keras 2.3.1 and Tensorflow 2.1.0 libraries.
 
 #### For further information about this code and associated data
 
