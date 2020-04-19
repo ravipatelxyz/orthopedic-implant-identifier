@@ -1,0 +1,24 @@
+
+Format of radiograph images before running any code should be as follows:
+
+1. All images are unilateral anterior-posterior x-ray images and saved in png format
+2. Images should be named in the following format, ##_****.png, where ## refers to the implant 
+model (as per coding below), and **** is an image index (unique for every image in dataset).  
+E.g. 04_0306.png is implant model 08 (Stryker Exeter), and the the 306th image in the whole dataset
+
+IMPLANT CODING
+Hips
+01 - Depuy-Synthes Corail (with collar)
+02 - Depuy-Synthes Corail (no collar)
+03 - JRI Orthopaedics Furlong Evolution (with collar)
+04 - JRI Orthopaedics Furlong Evolution (without collar)
+05 - Smith & Nephew Anthology
+06 - Smith & Nephew Polarstem (no collar)
+07 - Stryker Accolade II
+08 - Stryker Exeter
+
+Knees:
+21 - Depuy-Synthes Sigma
+22 - Smith & Nephew Genesis II
+23 - Smith & Nephew Legion
+24 - Zimmer-Biomet Oxford
