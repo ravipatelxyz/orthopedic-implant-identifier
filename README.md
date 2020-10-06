@@ -4,9 +4,9 @@
 
 #### Context
 
-Accurate identification of orthopedic implant design is essential to pre-operative planning of revision arthroplasty and verification of magnetic resonance imaging compatibility. Current systems are inadequate, associated with poorer patient surgical outcomes, significant time burdens on clinical staff, and increased healthcare costs.
+Accurate identification of orthopedic implant design is essential to pre-operative planning of revision arthroplasty. Current systems are inadequate, associated with poorer patient surgical outcomes, significant time burdens on clinical staff, and increased healthcare costs.
 
-We have therefore developed a neural network classifier for identifying the model of metallic joint implants from plain film radiographs (x-ray images), and have published our findings. We have made the final model and a set of radiographs available on Kaggle Kernels for interactive use.  This GitHub repository contains code used in the development, training, and evaluation phases of the study, to facilitate other researchers build upon this work.  We hope this will facilitate the development of a clinically applicable network classifier for identifying orthopedic implants in x-ray images.
+We have therefore developed a neural network classifier for identifying the model of metallic joint implants from plain film radiographs (x-ray images), and are publishing our findings. We have made the final model and a set of radiographs available on Kaggle Kernels for interactive use.  This GitHub repository contains code used in the development, training, and evaluation phases of the study, to facilitate other researchers to build upon this work.  We hope this will facilitate the development of a clinically applicable network classifier for identifying orthopedic implants in x-ray images.
 
 #### Content
 
@@ -20,7 +20,7 @@ Please visit the associated Kaggle Kernel and Kaggle Dataset, where we have made
 
 #### For further information about this project, this associated code, and the associated dataset
 
-Please see our associated peer-reviewed publication.
+Please see our associated peer-reviewed paper after publication (currently undergoing peer review)
 
 #### Authors and acknowledgements
 
