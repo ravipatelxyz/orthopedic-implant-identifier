@@ -1,0 +1,5 @@
+This Keras implementation of the code is old, and substantial changes were made to the networks and implementation since this was created. We are making it available in case it still has some value for others working on this problem. For the new model and implementation see pytorch_implementation.
+
+- Detailed explanations of each ipynb file are included in the markup within each file.
+- All ipynb code files are numbered according to the order in which they are run.
+- I have tried to make it clear where it will be necessary to modify the code to work in your own environment.
