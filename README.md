@@ -10,11 +10,11 @@ We have therefore developed a neural network classifier for identifying the mode
 
 #### Content
 
-All code is in ipynb format to enable viewing in Jupyter Notebooks. All code was written using Python 3.7.
+All code here is in ipynb format to enable viewing in Jupyter Notebooks, or is available via Kaggle Kernels: https://www.kaggle.com/jamesphoward/orthonet-testing. All code was written using Python 3.7.
 
-#### To interact with our final model
+#### To access final code and full dataset
 
-Please visit the Kaggle Kernel for the final PyTorch implementation and Kaggle Dataset, where we have made our final model and test dataset radiographs available for interactive use.
+Please visit the Kaggle Kernels for the final PyTorch implementation and the associated Kaggle Dataset, where we have made our final model and all anonymised radiographs available for interactive use: https://www.kaggle.com/jamesphoward/orthonet-testing
 
 #### For further information about this project, this associated code, and the associated dataset
 
