@@ -1,4 +1,4 @@
-Repository corresponding to the paper [https://pubs.rsna.org/doi/abs/10.1148/ryai.2021200183?journalCode=ai](Automated Identification of Orthopedic Implants on Radiographs using Deep Learning)
+Repository corresponding to the paper [Automated Identification of Orthopedic Implants on Radiographs using Deep Learning](https://pubs.rsna.org/doi/abs/10.1148/ryai.2021200183?journalCode=ai)
 
 # OrthoNet
 ## Developing a neural network to identify the model of orthopedic implant in an x-ray image
@@ -20,7 +20,7 @@ Please visit the Kaggle Kernels for the final PyTorch implementation and the ass
 
 #### For further information about this project, this associated code, and the associated dataset
 
-Please see our associated peer-reviewed paper [https://pubs.rsna.org/doi/abs/10.1148/ryai.2021200183?journalCode=ai](Automated Identification of Orthopedic Implants on Radiographs using Deep Learning)
+Please see our associated peer-reviewed paper [Automated Identification of Orthopedic Implants on Radiographs using Deep Learning](https://pubs.rsna.org/doi/abs/10.1148/ryai.2021200183?journalCode=ai)
 
 #### Authors and acknowledgements
 
